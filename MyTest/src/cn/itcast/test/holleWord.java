@@ -6,6 +6,7 @@ public class holleWord {
 		
 		System.out.println("hahahah");
 		System.out.println("heiheihei");
+		System.out.println("fen2");
 	}
 
 }
